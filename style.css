@@ -25,7 +25,7 @@ body{
         text-align: center;
         text-decoration: none;
         display: block;
-        width: 120px;
+        width: 200%;
         color: rgb(3, 41, 36);
         font-size: 23px;
         font-family: monospace;
@@ -94,5 +94,5 @@ p{
 img{
     margin-left: 150px;
 }
-.code{margin-left: 500px;
+.code{margin-left:33%;
 }
